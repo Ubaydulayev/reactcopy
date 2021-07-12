@@ -1,0 +1,23 @@
+.font {
+    text-align: center;
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.paragraf {
+    font-size: 30px;
+    text-align: center;
+}
+
+.page {
+    margin-top: 140px;
+    margin-left: 160px;
+}
+
+.play {
+    color: #00AAFF;
+}
+
+.link {
+    margin-bottom: 100px;
+}

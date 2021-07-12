@@ -1,0 +1,28 @@
+.twoPageText{
+    margin-top: 200px;
+    font-weight: 700;
+    font-size: 65px;
+    color: white;
+}
+
+.tpsubtitle{
+    font-size: 20px;
+}
+
+.tpbutton {
+    margin-left: 625px;
+    margin-bottom: 120px;
+}
+
+.tpbag {
+    background: black;
+}
+
+.icons {
+    margin-bottom: 100px;
+}
+
+.hr {
+    color: white;
+    margin-bottom: 80px;
+}
